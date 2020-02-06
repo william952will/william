@@ -1,0 +1,15 @@
+//Java
+
+mport java.util.Scanner;
+
+Public class sistema{
+Public static void main (String Args []){
+Scanner leia = new Scanner (System.in);
+String R;
+System.out.println ("me ajuda a continuar o codigo"),
+
+
+}
+}
+
+
